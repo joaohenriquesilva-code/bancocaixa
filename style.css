@@ -1,0 +1,30 @@
+#btn{
+    background: silver;
+    width: 50px;
+    height: 21px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center  ;
+}
+.bloco{
+    margin-left: 5px;
+    display: flex;
+    border: 1px solid black;
+    background: black;
+    color: hwb(61 0% 0%);
+}
+
+#Salvar{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+#delete{
+    background: silver;
+    width: 50px;
+    height: 21px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    color: hsl(0, 100%, 50%);
+}
